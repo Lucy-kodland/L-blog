@@ -1,0 +1,37 @@
+
+h2{
+    color: #8de9ff;
+    font-weight: 200;
+    font-size: 75px;
+    font-family: "Mynerve", cursive;
+}
+p, ol{
+    color: #acf977;
+    font-weight: 100;
+    font-size: 37.5px;
+    font-family: "Caveat Brush", cursive;
+}
+a{
+    display: inline-block;
+    color: #e3bffc;
+    font-family: "Mynerve", cursive;
+    background-color: #acf977;
+    text-decoration: none;
+    border-radius: 200px;
+}
+.maneskin{
+    display: inline;
+}
+
+.blog{
+    font-weight: 400;
+    font-size: 85px;
+    padding: 20px 20px;
+    border-radius: 100px;
+}
+h1{
+    font-weight: 900;
+    font-size: 100px;
+    padding: 50px 50px;
+    border-radius: 200px;
+}
