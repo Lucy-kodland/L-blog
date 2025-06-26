@@ -35,3 +35,7 @@ h1{
     padding: 50px 50px;
     border-radius: 200px;
 }
+#il-mio-blog:hover{
+    color: #acf977;
+    background-color: #e3bffc;
+}
