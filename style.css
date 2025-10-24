@@ -39,8 +39,9 @@ h1{
     color: #acf977;
     background-color: #e3bffc;
 }
-.siti:active{
+.siti:visited{
     color: blue;
 }
+
 
 
